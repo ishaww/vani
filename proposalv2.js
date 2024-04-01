@@ -38,13 +38,13 @@ const bbtt12 = document.getElementById('bbtt12');
 //IMAGESSSSSS///////
 
 const hands = document.getElementById('hands');
-const sadcat = document.getElementById('sadcat');
-const crying = document.getElementById('crying');
-const sadboi = document.getElementById('sadboi');
-const sadman  = document.getElementById('sadman');
-const hahahuhu = document.getElementById('hahahuhu');
-const hang = document.getElementById('hang');
-const sadsad = document.getElementById('sadsad');
+const sadluca = document.getElementById('sadluca');
+const sadsephrioth = document.getElementById('sadsephrioth');
+const sadalhaitam = document.getElementById('sadalhaitam');
+const sadidia  = document.getElementById('sadidia');
+const sadushijima = document.getElementById('sadushijima');
+const sadmalleus = document.getElementById('sadmalleus');
+const sadgetou = document.getElementById('sadgetou');
 
 
 
@@ -64,21 +64,21 @@ btt12.addEventListener("click", function (){
 bbtt3.addEventListener("click", function (){
 			btt1.style.opacity= "1";
 			bbtt3.style.opacity= "0";
-			sadcat.style.opacity= "1";
+			sadluca.style.opacity= "1";
 									
 });
 
 btt1.addEventListener("click", function (){
 			btt1.style.opacity= "0";
 			btt4.style.opacity= "1";
-			hahahuhu.style.opacity= "1";
+			sadsephrioth.style.opacity= "1";
 									
 });
 
 btt4.addEventListener("click", function (){
 			btt2.style.opacity= "1";
 			btt4.style.opacity= "0";
-			sadboi.style.opacity= "1";					
+			sadalhaitam.style.opacity= "1";					
 });
 
 btt2.addEventListener("click", function (){
@@ -92,13 +92,13 @@ btt2.addEventListener("click", function (){
 bbtt1.addEventListener("click", function (){
 			bbtt8.style.opacity= "1";
 			bbtt1.style.opacity= "0";
-			sadman.style.opacity= "1";					
+			sadidia.style.opacity= "1";					
 });
 
 bbtt8.addEventListener("click", function (){
 			bbtt8.style.opacity= "0";
 			btt6.style.opacity= "1";
-			hang.style.opacity= "1";			
+			sadgetou.style.opacity= "1";			
 			
 					
 			
